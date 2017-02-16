@@ -30,7 +30,6 @@ typedef NS_ENUM(NSUInteger, MarqueeType) {
  for label scrolling direction/looping, speed/rate, and other options.
  */
 
-IB_DESIGNABLE
 @interface MarqueeLabel : UILabel
 
 ////////////////////////////////////////////////////////////////////////////////
